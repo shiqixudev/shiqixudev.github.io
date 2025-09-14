@@ -1,19 +1,26 @@
 {
   "basics": {
     "name": "Shiqi Xu",
-    "label": "Imaging Algorithm Scientist",
+    "label": "Senior Algorithm Scientist",
     "image": "",
     "email": "shiqixudev@gmail.com",
-    "url": "https://shiqixudev.github.io/",
+    "url": "https://shiqixudev.github.io",
     "summary": "I create computational imaging algorithms and systems to help explore how things work.",
+    "location": {
+      "address": "5300 Central Pkwy",
+      "postalCode": "94568",
+      "city": "Dublin",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
-  "work": [
-    {
-      "name": "Carl Zeiss AG",
-      "position": "Senior Algorithm Scientist",
-      "startDate": "2023"
-    }
-  ],
   "education": [
     {
       "institution": "Duke University",
