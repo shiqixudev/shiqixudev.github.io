@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Shiqi Xu",
-    "label": "Senior Algorithm Scientist",
+    "name": "Tianqing Li",
+    "label": "Graduate Student",
     "image": "",
-    "email": "shiqixudev@gmail.com",
-    "url": "https://shiqixudev.github.io",
-    "summary": "I create computational imaging algorithms and systems to help explore how things work.",
+    "email": "tianqing.li@duke.edu",
+    "url": "https://tqxli.github.io",
+    "summary": "I develop computational methods that address animal 3D motion capture and link behavioral dynamics to the brain activities using machine learning and computer vision.",
     "location": {
-      "address": "5300 Central Pkwy",
-      "postalCode": "94568",
-      "city": "Dublin",
+      "address": "534 Research Dr, Room 426",
+      "postalCode": "27705",
+      "city": "Durham",
       "countryCode": "US",
-      "region": "California"
+      "region": "North Carolina"
     },
     "profiles": [
       {
@@ -24,21 +24,30 @@
   "education": [
     {
       "institution": "Duke University",
+      "location": "Durham, USA",
+      "area": "Biomedical Engineering",
       "studyType": "PhD",
-      "startDate": "2019",
-      "endDate": "2023",
+      "startDate": "2021"
     },
     {
-      "institution": "Washington University in St. Louis",
-      "studyType": "MS",
-      "startDate": "2017",
-      "endDate": "2019",
+      "institution": "University of California, Los Angeles",
+      "location": "Los Angeles, USA",
+      "studyType": "Bachelor of Science",
+      "area": "Bioengineering, Applied Mathematics",
+      "startDate": 2016,
+      "endDate": "2020"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker",
+      "icon": ""
     },
     {
-      "institution": "University of Illinois at Urbana-Champaign",
-      "studyType": "BS",
-      "startDate": "2013",
-      "endDate": "2016",
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ]
 }
