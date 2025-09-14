@@ -6,10 +6,10 @@ subtitle: <a href='#'></a>PhD Candidate | Department of Biomedical Engineering, 
 
 profile:
   align: right
-  image: portrait.png
+  image: profile6.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Contact: tianqing.li@duke.edu</p>
+    <p>shiqixudev@gmail.com</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -17,17 +17,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a PhD Candidate in Biomedical Engineering at Duke University, advised by Dr. [Timothy Dunn](https://www.tdunnlab.org/). My research has focused on building computer vision tools that **measure how lab animals move, quantitatively and precisely in 3D**, together with data-driven frameworks that efficiently transform behavioral dynamics into informative representations, ultimately in connection with the brain.
+I am currently an imaging algorithm scientist at Zeiss in California. My role is to design and develop scalable, deep learning-enabled algorithms for high-resolution volumetric image reconstruction.
 
-Before Duke, I completed my undergraduate in Applied Mathematics and Bioengineering at University of California, Los Angeles. I worked on AI-facilitated medical image analysis at UCLA Medical Informatics advised by Professor [William Hsu](https://mii.ucla.edu/people/william-hsu-phd), mainly upon CT scan denoising and breast lesion detection in ultrasound.
-
-Outside of research, I enjoy reading mystery and detective fiction. Some of my favorites are *The Seventh Hypothesis* by Paul Halter, *The Tokyo Zodiac Murders* and *The Knight Stranger* by Soji Shimada. 
+Before joining Zeiss, I obtained my Ph.D. from Duke University under the supervision of [Prof. Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/people/roarke-horstmeyer). During this time, I developed computational algorithms for novel sensor arrays to image objects with gigapixel resolution. I also hold an M.S. degree from Washington University, where I was supervised by [Prof. Ulugbek Kamilov](https://cigroup.wustl.edu/) on compressive sensing, and [Prof. Quing Zhu](https://opticalultrasoundimaging.wustl.edu/) on medical imaging analysis for portable bedside devices.
 
 **Research Interests**
-- 3D motion capture in unconstrained social rodents
-- unsupervised behavioral/motion representation learning
-- social phenotyping of neuropsychiatric diseases (autism)
-- deep learning for computational neuroscience & ethology
+- Volumetric image reconstruction
+- High resolution optical and X-ray imaging system
+- Computational photography
+- 3D image analysis
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
