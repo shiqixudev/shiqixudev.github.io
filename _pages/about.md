@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>PhD Candidate | Department of Biomedical Engineering, Duke University
+subtitle: 
 
 profile:
   align: right

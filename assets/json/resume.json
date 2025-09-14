@@ -1,53 +1,37 @@
 {
   "basics": {
-    "name": "Tianqing Li",
-    "label": "Graduate Student",
+    "name": "Shiqi Xu",
+    "label": "Imaging Algorithm Scientist",
     "image": "",
-    "email": "tianqing.li@duke.edu",
-    "url": "https://tqxli.github.io",
-    "summary": "I develop computational methods that address animal 3D motion capture and link behavioral dynamics to the brain activities using machine learning and computer vision.",
-    "location": {
-      "address": "534 Research Dr, Room 426",
-      "postalCode": "27705",
-      "city": "Durham",
-      "countryCode": "US",
-      "region": "North Carolina"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "shiqixudev@gmail.com",
+    "url": "https://shiqixudev.github.io/",
+    "summary": "I create computational imaging algorithms and systems to help explore how things work.",
   },
+  "work": [
+    {
+      "name": "Carl Zeiss AG",
+      "position": "Senior Algorithm Scientist",
+      "startDate": "2023"
+    }
+  ],
   "education": [
     {
       "institution": "Duke University",
-      "location": "Durham, USA",
-      "area": "Biomedical Engineering",
       "studyType": "PhD",
-      "startDate": "2021"
+      "startDate": "2019",
+      "endDate": "2023",
     },
     {
-      "institution": "University of California, Los Angeles",
-      "location": "Los Angeles, USA",
-      "studyType": "Bachelor of Science",
-      "area": "Bioengineering, Applied Mathematics",
-      "startDate": 2016,
-      "endDate": "2020"
-    }
-  ],
-  "languages": [
-    {
-      "language": "Mandarin",
-      "fluency": "Native speaker",
-      "icon": ""
+      "institution": "Washington University in St. Louis",
+      "studyType": "MS",
+      "startDate": "2017",
+      "endDate": "2019",
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "institution": "University of Illinois at Urbana-Champaign",
+      "studyType": "BS",
+      "startDate": "2013",
+      "endDate": "2016",
     }
   ]
 }
