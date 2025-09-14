@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shiqixudev.github.io/sitemap.xml
