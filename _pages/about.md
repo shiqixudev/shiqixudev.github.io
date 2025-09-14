@@ -25,7 +25,7 @@ Before joining Zeiss, I obtained my Ph.D. from Duke University under the supervi
 - Volumetric image reconstruction
 - High resolution optical and X-ray imaging system
 - Computational photography
-- 3D image analysis
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
