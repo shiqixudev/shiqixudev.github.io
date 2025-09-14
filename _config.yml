@@ -167,14 +167,14 @@ external_sources:
 
 
 collections:
-  #news:
-  #  defaults:
-  #    layout: post
-  #  output: true
-  #  permalink: /news/:path/
-  #projects:
-  #  output: true
-  #  permalink: /projects/:path/
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 announcements:
   enabled: true
@@ -222,6 +222,7 @@ exclude:
   - README.md
   - vendor
   - _pages/repositories.md
+  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
