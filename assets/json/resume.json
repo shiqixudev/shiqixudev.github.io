@@ -38,16 +38,4 @@
       "endDate": "2020"
     }
   ],
-  "languages": [
-    {
-      "language": "Mandarin",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ]
 }
