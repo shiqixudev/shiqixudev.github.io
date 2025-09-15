@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Tianqing Li",
+    "name": "Shiqi Xu",
     "label": "Graduate Student",
     "image": "",
-    "email": "tianqing.li@duke.edu",
-    "url": "https://tqxli.github.io",
-    "summary": "I develop computational methods that address animal 3D motion capture and link behavioral dynamics to the brain activities using machine learning and computer vision.",
+    "email": "shiqixudev@gmail.com",
+    "url": "https://shiqixudev.github.io",
+    "summary": "I develop computational imaging algorithms and systems to help understand and digitize the world",
     "location": {
-      "address": "534 Research Dr, Room 426",
-      "postalCode": "27705",
-      "city": "Durham",
+      "address": "5300 Central Pkwy",
+      "postalCode": "94568",
+      "city": "Dublin",
       "countryCode": "US",
-      "region": "North Carolina"
+      "region": "California"
     },
     "profiles": [
       {
@@ -25,9 +25,9 @@
     {
       "institution": "Duke University",
       "location": "Durham, USA",
-      "area": "Biomedical Engineering",
       "studyType": "PhD",
-      "startDate": "2021"
+      "startDate": "2019",
+      "endDate": "2023"
     },
     {
       "institution": "University of California, Los Angeles",
