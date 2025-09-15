@@ -1,10 +1,12 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Shiqi Xu
     - name: Summary
       value: I develop computational imaging algorithms and systems to help understand and digitize the world.
+    - name: Expertise
+      value: 
+        - High-resolution volumetric imaging
+        - Image processing and analysis (both AI and classic)
 
 - title: Experience
   type: time_table
