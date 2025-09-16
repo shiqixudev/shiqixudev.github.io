@@ -6,7 +6,14 @@
     - title: Senior Algorithm Scientist
       institution: Carl Zeiss
       year: 2023 - now
-
+      description:
+        - Deep learning-enabled algorithms for scaling high-resolution volumetric image reconstruction
+        - High-resolution X-ray tomography imaging system design
+    - title: Optical Scientist Intern
+      institution: Meta Reality Labs
+      year: 2023
+      description:
+        - Eye-tracking system design for AR/VR
 
 - title: Education
   type: time_table
@@ -14,9 +21,16 @@
     - title: Ph.D.
       institution: Duke University
       year: 2019 - 2023
+      descriptin:
+        - 3D computational imaging algorithm
+        - High-resolution optical imaging system design
+        - Digital pathology
     - title: M.S.
       institution: Washington University in St. Louis
       year: 2017 - 2019
+      descripption:
+        - Compressive sensing
+        - Medical image analysis for portable devices
     - title: B.S.
       institution: University of Illinois at Urbana-Champaign
       year: 2013 - 2016
