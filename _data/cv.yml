@@ -21,18 +21,20 @@
     - title: Ph.D.
       institution: Duke University
       year: 2019 - 2023
-      descriptin:
+      description:
         - 3D computational imaging algorithm
         - High-resolution optical imaging system design
         - Digital pathology
     - title: M.S.
       institution: Washington University in St. Louis
       year: 2017 - 2019
-      descripption:
+      description:
         - Compressive sensing
         - Medical image analysis for portable devices
     - title: B.S.
       institution: University of Illinois at Urbana-Champaign
       year: 2013 - 2016
+
+
 
 
