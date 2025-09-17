@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 I am currently an imaging algorithm scientist at Zeiss in California. My role is to design and develop scalable, deep learning-enabled algorithms for high-resolution volumetric image reconstruction.
 
-Before joining Zeiss, I obtained my Ph.D. from Duke University under the supervision of [Prof. Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/people/roarke-horstmeyer). During this time, I developed computational algorithms for novel sensor arrays to image moving objects with gigapixel resolution. I also hold an M.S. degree from Washington University, where I was supervised by [Prof. Ulugbek Kamilov](https://cigroup.wustl.edu/) on compressive sensing, and [Prof. Quing Zhu](https://opticalultrasoundimaging.wustl.edu/) on medical imaging analysis for portable bedside devices.
+Before joining Zeiss, I obtained my Ph.D. from Duke University under the supervision of Prof. Roarke Horstmeyer. During this time, I developed computational algorithms for novel sensor arrays to image moving objects with gigapixel resolution. I also hold an M.S. degree from Washington University, where I was supervised by Prof. Ulugbek Kamilov on compressive sensing, and Prof. Quing Zhu on medical imaging analysis for portable bedside devices.
 
 **Research Interests**
 - I am interested in creating computational imaging technologies to help understand and digitize the world.
