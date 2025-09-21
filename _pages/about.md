@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile6.jpg
+  image: profile6_nanobanana1.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>contact: shiqixudev@gmail.com</p>
