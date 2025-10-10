@@ -23,7 +23,7 @@ Before joining Zeiss, I obtained my Ph.D. from Duke University under the supervi
 
 **Research Interests**
 - I am interested in creating computational imaging technologies to help understand and digitize the world.
-- I am particularly fascinated by the microcosmos, where tiny structures invisible to the naked eye reside.
+- I am particularly fascinated by the microcosmos, where tiny structures invisible to the human eye reside.
 
 **Research Expertises**
 - Volumetric image reconstruction
