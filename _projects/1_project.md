@@ -5,7 +5,7 @@ description: Imaging transparent cells with optical diffraction
 img: assets/img/publication_preview/tofu.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Due to their high water content, cells and tissues are mostly transparent under visible light microscopy. While exogenous dyes, such as histopathology stains or fluorescence, can introduce significant microscopy contrast and specificity, these enhancements typically perturb cell physiology or require painstaking sample preparation. In this work, we introduce a non-scanning, label-free tomographic microscopy method for quantitative simultaneous imaging of refractive index and polarization information from specimens in 3D.
@@ -29,3 +29,6 @@ Here, we demonstrate volumetric reconstruction results of an isolated healthy mu
 <div class="caption">
    Reconstructions of a muscle fiber. (a) The image of a muscle fiber with the center LED illumination. The imaging system is focused in the middle of the muscle fiber. (b) The reconstructed birefringence. The zoom-in region shows the structures of healthy muscle fibers. The image of the same muscle fiber at a different region, where a non-muscle fiber with a 90-deg bend is placed below the muscle fiber. The imaging system is focused between this and the muscle fiber. (d) The reconstructed orientation at different depths, with a zoom-in showing the fine sarcomere structure of muscle tissue. (e) Histogram of reconstructed orientation shown in (d).
 </div>
+
+**Further reading**
+Xu, Shiqi, et al. ["Tensorial tomographic Fourier ptychography with applications to muscle tissue imaging."](https://doi.org/10.1117/1.AP.6.2.026004) Advanced Photonics 6.2 (2024): 026004-026004.
