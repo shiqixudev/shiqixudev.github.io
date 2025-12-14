@@ -30,5 +30,8 @@ Here, we demonstrate volumetric reconstruction results of an isolated healthy mu
    Reconstructions of a muscle fiber. (a) The image of a muscle fiber with the center LED illumination. The imaging system is focused in the middle of the muscle fiber. (b) The reconstructed birefringence. The zoom-in region shows the structures of healthy muscle fibers. The image of the same muscle fiber at a different region, where a non-muscle fiber with a 90-deg bend is placed below the muscle fiber. The imaging system is focused between this and the muscle fiber. (d) The reconstructed orientation at different depths, with a zoom-in showing the fine sarcomere structure of muscle tissue. (e) Histogram of reconstructed orientation shown in (d).
 </div>
 
-**Further reading**
+#### Further reading
+
 Xu, Shiqi, et al. ["Tensorial tomographic Fourier ptychography with applications to muscle tissue imaging."](https://doi.org/10.1117/1.AP.6.2.026004) Advanced Photonics 6.2 (2024): 026004-026004.
+
+Xu, Shiqi, et al. ["Tensorial tomographic differential phase-contrast microscopy."](https://doi.org/10.1109/ICCP54855.2022.9887674) 2022 IEEE International Conference on Computational Photography (ICCP). IEEE, 2022.
