@@ -2,7 +2,7 @@
 layout: page
 title: Plenoptic Laboratory Hard X-Ray System
 description: Volumetric X-ray refraction and scattering imaging 
-img: assets/img/proj/umpa_p1.png
+img: assets/img/proj/umpa_thumbnail.png
 importance: 1
 category: work
 related_publications: false

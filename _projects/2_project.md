@@ -3,7 +3,7 @@ layout: page
 title: Parallelized Diffuse Correlation Imaging
 description: Imaging hemo-dynamics at single photon sensitivity
 img: assets/img/proj/crepe.png
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
