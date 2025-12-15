@@ -1,7 +1,7 @@
 ---
 layout: page
 title: High-throughput rotational laminography
-description: 3D icnline advanced packaging inspection
+description: 3D inline wafer-level advanced packaging inspection
 img: assets/img/proj/nlx_snip.png
 importance: 1
 category: work
@@ -41,3 +41,9 @@ In addition, because computed laminography geometry violates Tuy's data sufficie
     Volumetric reconstruction of a dynamic random-access memory (DRAM) sample. Noise reduction and artifact removal are applied simultaneously to improve image quality without increasing inference time. Extracted from doi.org/10.1117/12.3028278
 </div>
 
+
+#### Further reading
+
+Xu, Shiqi, et al. ["Self-supervised deep image restoration for x-ray computed laminographic tomography."](https://doi.org/10.1117/12.3028278) Developments in X-Ray Tomography XV. Vol. 13152. SPIE, 2024.
+
+Guo, Zijing, Xu, Shiqi, et al. ["The Role of Pretraining in High-Throughput Laminography Restoration."](https://doi.org/10.1093/mam/ozaf048.984) Microscopy and Microanalysis (2025): ozaf048-984.
