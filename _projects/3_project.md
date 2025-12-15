@@ -2,7 +2,7 @@
 layout: page
 title: High-throughput rotational laminography
 description: 3D inline wafer-level advanced packaging inspection
-img: assets/img/proj/nlx_snip.png
+img: assets/img/proj/nlx_snip2.png
 importance: 1
 category: work
 related_publications: false
