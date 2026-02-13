@@ -25,21 +25,21 @@ Short-scan, also known as 180+ fan scan, is a widely used circular scanning traj
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj/dps_shortscan.png" title="Stereoscopic configuration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/proj/dps_shortscan.png" title="Short-scan" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Results from short-scan.
+    Results from short-scan (work under review).
 </div>
 
 Another popular geometry typically used for large, flat samples is rotational laminography. To scan a plate-like sample, such as a wafer or a printed circuit board, it is often advantageous to use a rotational laminography trajectory for improved throughput and reduced beam-hardening. However, reconstruction from such a trajectory suffers from smearing cone-beam artifacts, as well as vignetting or a truncated field of view (FOV). From the results in the figure below, we see these artifacts in the FBP reconstruction. DeepReconIC is able to remove noise but is unable to mitigate cone-beam artifacts. Both score-based and flow-based reconstruction reduce both noise and artifacts while recovering the structures, while the flow-based method clearly outperforms the others.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj/dps_cl.png" title="Stereoscopic configuration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/proj/dps_cl.png" title="Rotational laminogrpahy" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Results from rotational laminogrpahy.
+    Results from rotational laminogrpahy (work under review).
 </div>
 
