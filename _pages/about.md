@@ -26,9 +26,8 @@ Before joining Zeiss, I obtained my Ph.D. from Duke University under the supervi
 - I am particularly fascinated by the microcosmos, where tiny structures invisible to the human eye reside.
 
 **Research Expertises**
-- Volumetric image reconstruction
-- High resolution optical and X-ray imaging system
-- Computational photography
+- 3D image reconstruction and restoration (voxel, ray, 3DGS, NIR; diffusion)
+- High resolution computational imaging system (optical and X-ray)
 - Image processing and analysis (both AI and classic)
 
 
